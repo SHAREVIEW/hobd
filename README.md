@@ -1,3 +1,9 @@
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
+
+
+EXAMPLE #20
+
+
 # hobDrive
 
   This code is a core part of hobDrive software trip computer.
